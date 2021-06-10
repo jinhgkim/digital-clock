@@ -1,4 +1,4 @@
 # LED-clock
 
-only digital clock for now  
-Planning to add other useful functions such as timer, alarm, Days, graphics
+Present functions: clock, timer  
+Plan-to-update: alarm, Days, graphics
